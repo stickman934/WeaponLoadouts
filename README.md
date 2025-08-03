@@ -10,7 +10,7 @@ This is a simple menu script for weapon loadouts.
 
 1. Download the script
 2. Put the script in your resources
-3. Add ```ensure WeaponLoadout``` to your server.cfg
+3. Add ```ensure WeaponLoadouts``` to your server.cfg
 
 ## Configuration
 
